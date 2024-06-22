@@ -1,0 +1,8 @@
+
+Cloning in Git:
+
+git clone <urlToTheRepo>
+git clone https://github.com/dtacademyb12/duotify-cucumber-bdd-framework.git
+
+
+
